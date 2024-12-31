@@ -15,7 +15,7 @@ namespace seesion1oop
             // Employee
             //ID // NAME // SALARY
             // point 
-           // Point PO1;
+            // Point PO1;
             ////Declare for object from type 'point'
             ////po1 : object 
             ////allocate untitialized 8 bytes at stack 
@@ -32,7 +32,18 @@ namespace seesion1oop
             //Console.WriteLine(PO1.y); 
             #endregion
 
-
+            #region OOP
+            //OOP:OBJECT ORIENTED PROGRAMMING
+            //programming pardiagram
+            //oop:the paradiagram use for build any business
+            //class:blue print of the object 
+            //object:specific instance from class
+//4 pailars:
+            //1:encapsulation 
+            //2:inhieretence
+            //3:polymporism
+            //4:abstraction
+            #endregion
         }
     }
 }
